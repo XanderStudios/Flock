@@ -1,0 +1,6 @@
+# Binaries
+run_tree
+util
+
+# IDE
+.vscode
