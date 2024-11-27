@@ -10,5 +10,6 @@
 #include "types.h"
 #include "window.h"
 #include "renderer.h"
+#include "audio.h"
 
 #endif
